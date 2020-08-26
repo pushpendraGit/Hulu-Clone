@@ -1,4 +1,4 @@
-const API_KEY = "603b3a7a66461be9829741b1dcf64f17";
+const API_KEY = "<your_key>";
 export default {
   fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,
   fetchTopRated: `/movie/top_rated?api_key=${API_KEY}&language=en-US`,
