@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Live - https://hulu-837fd.web.app/
+
+# I you want to use this project then go to request.js and put your api_key of tmdb.
+
 ## Available Scripts
 
 In the project directory, you can run:
