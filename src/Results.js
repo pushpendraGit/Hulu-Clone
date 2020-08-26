@@ -1,10 +1,11 @@
 import React from "react";
 import "./Result.css";
+import VideoCard from "./VideoCard";
 
 function Results(props) {
   return (
     <div className="results">
-      <h1>This is results</h1>
+     <VideoCard />
     </div>
   );
 }
